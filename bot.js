@@ -37,7 +37,7 @@ const parseResult = async(json, options = {}) => {
       ignoreVal: [null,
         undefined],
       ignoreKey: [],
-      title: 'IkyyBott',
+      title: 'Leviathan botz',
       headers: `${head}${line.repeat(4)}${arrow} » %title «`,
       body: `➜ %key : %value`,
       footer: head+line+line+line+arrow+'\n',...options,
